@@ -1,0 +1,8 @@
+= リソースパック テンプレート
+:icons: font
+
+image:https://img.shields.io/badge/Minecraft_Version-1.20.1-green[]
+image:https://img.shields.io/badge/ResourcePack_Format-15-blue[]
+
+刀剣クラフト用のリソースパックです。 +
+ダミーのテクスチャを置き換えて使用してください。
