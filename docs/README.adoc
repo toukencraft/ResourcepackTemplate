@@ -1,0 +1,62 @@
+= リソースパック テンプレート
+:icons: font
+:figure-caption: 図
+
+image:https://img.shields.io/badge/Minecraft_Version-1.20.1-green[]
+image:https://img.shields.io/badge/ResourcePack_Format-15-blue[]
+
+刀剣クラフト用のリソースパックです。
+このテンプレートには刀剣と刀剣男士のテクスチャが含まれています。
+必要に応じてテクスチャを置き換えてください。
+
+
+== リソースパックの作成方法
+
+[start=0]
+. 刀剣男士に使用したいプレイヤースキン(ワイド)のテクスチャを用意
+
+. image:https://img.shields.io/badge/-<> Code ▼-238636[] {gt} image:https://img.shields.io/badge/-Download ZIP-gray[] を押してダウンロード
++
+.ダウンロードボタンの場所
+image::img/download.png[]
+
+. ``touken_texture``内のテクスチャを用意したテクスチャに置き換え
+
+. ``touken_texture``内のファイルをZIP形式で圧縮
++
+WARNING: 解凍したときフォルダが二重にならないように、フォルダの中身を選択して圧縮してください。
++
+.圧縮するときに選択するファイル
+image::img/zip.png[]
+
+. 必要に応じてZIPファイルの名前を変更
++
+NOTE: 導入時にこのZIPファイル名が表示されます。
+
+
+== リソースパックの導入方法
+
+. ``起動構成フォルダ``を開く
++
+.公式ランチャーの場合
+image::img/install-1.png[]
+
+. ``resourcepacks``フォルダの中に、作成したリソースパック(ZIPファイル)を配置
++
+image::img/install-2.png[]
+
+. Minecraftを起動し、リソースパックの設定を開く
++
+image::img/install-3.png[]
++
+image::img/install-4.png[]
+
+. 作成したZIPファイルの▶️ボタンを押す
++
+WARNING: ZIPファイルが一覧に表示されない場合、フォルダが二重に圧縮されていないか等を確認してください。
++
+image::img/install-5.png[]
+
+. 選択中に移れば完了
++
+image::img/install-6.png[]
