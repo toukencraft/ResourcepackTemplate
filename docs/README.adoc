@@ -15,7 +15,7 @@ image:https://img.shields.io/badge/ResourcePack_Format-15-blue[]
 [start=0]
 . 刀剣男士に使用したいプレイヤースキン(ワイド)のテクスチャを用意
 
-. image:https://img.shields.io/badge/-<> Code ▼-238636[] {gt} image:https://img.shields.io/badge/-Download ZIP-gray[] を押してダウンロード
+. image:https://img.shields.io/badge/-<> Code ▼-238636[] {gt} image:https://img.shields.io/badge/-Download ZIP-gray[] を押してテンプレートをダウンロード
 +
 .ダウンロードボタンの場所
 image::img/download.png[]
@@ -31,32 +31,34 @@ image::img/zip.png[]
 
 . 必要に応じてZIPファイルの名前を変更
 +
-NOTE: 導入時にこのZIPファイル名が表示されます。
+NOTE: 導入時にこのZIPファイルの名称が表示されます。
 
 
 == リソースパックの導入方法
 
-. ``起動構成フォルダ``を開く
-+
-.公式ランチャーの場合
-image::img/install-1.png[]
 
-. ``resourcepacks``フォルダの中に、作成したリソースパック(ZIPファイル)を配置
+. Minecraftのタイトルやゲームメニューから``設定...``を開く
 +
-image::img/install-2.png[]
+image::img/install-title.png[]
++
+image::img/install-gamemenu.png[]
 
-. Minecraftを起動し、リソースパックの設定を開く
+. 設定画面から``リソースパック...``を選択
 +
-image::img/install-3.png[]
+image::img/install-setting.png[]
+
+. 画面左下の``パックフォルダーを開く``を選択
 +
-image::img/install-4.png[]
+image::img/install-openfolder.png[]
+
+. ``resourcepacks``フォルダーが開かれるので、ZIPファイルを入れる
 
 . 作成したZIPファイルの▶️ボタンを押す
 +
 WARNING: ZIPファイルが一覧に表示されない場合、フォルダが二重に圧縮されていないか等を確認してください。
 +
-image::img/install-5.png[]
+image::img/install-enabled.png[]
 
-. 選択中に移れば完了
+. ZIPファイルが選択中に移れば完了
 +
-image::img/install-6.png[]
+image::img/install-available.png[]
