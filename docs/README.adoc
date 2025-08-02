@@ -3,7 +3,7 @@
 :figure-caption: 図
 
 link:https://www.minecraft.net/ja-jp[image:https://img.shields.io/modrinth/game-versions/AhnrHmLv?label=Minecraft+Version&color=green[]]
-link:https://feedback.minecraft.net/hc/en-us/articles/27547857163917-Minecraft-Java-Edition-1-21-Tricky-Trials#h_01J095CMMFY7WKFYWVSXBMPTR7[image:https://img.shields.io/badge/ResourcePack_Format-34-blue[]]
+link:https://feedback.minecraft.net/hc/en-us/articles/27547857163917-Minecraft-Java-Edition-1-21-Tricky-Trials#h_01J095CMMFY7WKFYWVSXBMPTR7[image:https://img.shields.io/badge/ResourcePack_Format-64-blue[]]
 
 刀剣クラフト用のリソースパックです。
 このテンプレートには刀剣と刀剣男士のテクスチャが含まれています。
